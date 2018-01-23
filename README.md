@@ -30,6 +30,6 @@ Group 1 will then focus mostly on papers trsc.1060.0161.pdf and
 List of Links:
 
 - [Fynbus](http://rejseplanen-smartrbl.hafas.de/itcs.war/app/pages/livemap/livemap.xhtml)
-  (use login: "Smart City" and password: ":smartcity")
+  (use login: "Smart City" and password: "smartcity")
 
 
