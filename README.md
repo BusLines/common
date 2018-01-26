@@ -33,3 +33,4 @@ List of Links:
   (use login: "Smart City" and password: ":smartcity")
 
 
+- [Latex: se materiale for session 41:](http://www.imada.sdu.dk/~rolf/Edu/DM534/E16/)
