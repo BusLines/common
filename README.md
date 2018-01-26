@@ -34,3 +34,5 @@ List of Links:
 
 
 - [Latex: se materiale for session 41:](http://www.imada.sdu.dk/~rolf/Edu/DM534/E16/)
+
+- [BibTex](https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management)
