@@ -36,3 +36,22 @@ List of Links:
 - [Latex: se materiale for session 41:](http://www.imada.sdu.dk/~rolf/Edu/DM534/E16/)
 
 - [BibTex](https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management)
+
+- [GitHub Desktop](https://desktop.github.com/). 
+
+
+- Thesis structure:
+
+	- Summary (Abstract)
+
+	- Preface
+
+	This Bachelor/Master thesis has been completed at the Department of
+		Mathematics and Computer Science of the University of Southern Denmark
+			in fulfillment of the requirements for acquiring a Bachelor/Master
+				degree in Computer Science/Applied Mathematics/Mathematics and
+					Economy. It accounts for a total of 10 ECTS point.
+  
+
+    - Acknowledgments
+	
