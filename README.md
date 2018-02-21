@@ -22,9 +22,12 @@ Papers ZR-05-22.pdf and Odoni.pdf (Part II) are good for both groups for
 an introduction.
 
 Group 1 will then focus mostly on papers trsc.1060.0161.pdf and
-978-3-540-73312-6_18.pdf while group 2 on OASIcs-ATMOS-2017-5.pdf and
-06001.SchoebelAnita.Paper.660.pdf.
+978-3-540-73312-6_18.pdf.
 
+Group 2 will focus on 
+- OASIcs-ATMOS-2017-5.pdf and Friederich_Hartl_Schiewe_Schobel_2017.pdf (the second is an extended version of the first)
+- 06001.SchoebelAnita.Paper.660.pdf
+- line_pool.pdf
 
 
 List of Links:
