@@ -30,10 +30,19 @@ Group 2 will focus on
 - line_pool.pdf
 
 
+
 List of Links:
 
 - [Fynbus](http://rejseplanen-smartrbl.hafas.de/itcs.war/app/pages/livemap/livemap.xhtml)
   (use login: "Smart City" and password: ":smartcity")
+
+
+- [LinTim](https://lintim.math.uni-goettingen.de/)
+- [PTV VISUM](http://vision-traffic.ptvgroup.com/de/produkte/ptv-visum/)
+- [PTV VISSIM](http://vision-traffic.ptvgroup.com/en-uk/products/ptv-vissim/)
+
+
+
 
 
 - [Latex: se materiale for session 41:](http://www.imada.sdu.dk/~rolf/Edu/DM534/E16/)
