@@ -34,7 +34,7 @@ Group 2 will focus on
 List of Links:
 
 - [Fynbus](http://rejseplanen-smartrbl.hafas.de/itcs.war/app/pages/livemap/livemap.xhtml)
-  (use login: "Smart City" and password: ":smartcity")
+  (use login: "Smart City" and password: "smartcity")
 
 
 - [LinTim](https://lintim.math.uni-goettingen.de/)
